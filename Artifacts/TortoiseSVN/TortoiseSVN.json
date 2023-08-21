@@ -7,7 +7,7 @@
         "Windows",
         "TortoiseSVN"
     ],
-    "iconUri": "https://community.chocolatey.org/packages/tortoisesvn",
+    "iconUri": "https://community.chocolatey.org/content/packageimages/tortoisesvn.1.14.5.29465.png",
     "targetOsType": "Windows",
     "runCommand": {
         "commandToExecute": "[concat('powershell.exe -ExecutionPolicy bypass \"& ./install-choco-package.ps1 -Packages ''', 'tortoisesvn', '''\"')]"
