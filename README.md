@@ -1,2 +1,2 @@
 # Azure
-Custom Artifcats for DevTes Labs
+Custom Artifacts for DevTest Labs
